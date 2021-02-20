@@ -310,7 +310,7 @@ http://93.158.213.92:1337/announce
 
 http://93.92.64.5/announce
 
-https://telly.to/announce
+https://telly.to/announce/eb406b559327d1b6b8efa99d9b49f021
 
 http://95.107.48.115:80/announce
 
